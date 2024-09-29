@@ -6,7 +6,7 @@ _CeladonMartRoofText_484ee::
 _CeladonMartRoofText_484f3::
 	text "Yay!"
 
-	para "DELICIOUS WATER!"
+	para "SPRING WATER!"
 
 	para "Thank you!"
 
@@ -27,7 +27,7 @@ _CeladonMartRoofText_484fe::
 	para "@"
 	text_ram wcf4b
 	text " contains"
-	line "ICE BEAM!"
+	line "FREEZE BEAM!"
 
 	para "It can freeze the"
 	line "target sometimes!@"
