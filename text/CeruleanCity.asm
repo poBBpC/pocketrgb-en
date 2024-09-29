@@ -138,7 +138,7 @@ _CeruleanCityText6::
 
 _CeruleanCityText_19730::
 	text "OK! YADORAN!"
-	line "Use SONICBOOM!"
+	line "Use SONIC BOOM!"
 	cont "Come on, YADORAN"
 	cont "pay attention!"
 	done
