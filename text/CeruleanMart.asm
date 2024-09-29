@@ -11,7 +11,7 @@ _CeruleanMartText2::
 
 _CeruleanMartText3::
 	text "Have you seen any"
-	line "RARE CANDY?"
+	line "STRANGE CANDY?"
 
 	para "It's supposed to"
 	line "make #MON go"
