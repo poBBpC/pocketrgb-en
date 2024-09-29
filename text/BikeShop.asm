@@ -56,7 +56,7 @@ _BikeShopText_1d843::
 
 	para "You can't put a"
 	line "shopping basket"
-	cont "on an MTB!"
+	cont "on an motorbike!"
 	done
 
 _BikeShopText_1d85c::
