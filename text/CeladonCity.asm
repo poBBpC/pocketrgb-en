@@ -1,5 +1,5 @@
 _CeladonCityText1::
-	text "I got my DOGARS"
+	text "I got my SMOGXIC"
 	line "in GUREN!"
 
 	para "It's nice, but it"
@@ -48,7 +48,7 @@ _ReceivedTM41Text::
 
 _TM41ExplanationText::
 	text "TM41 teaches"
-	line "SOFTBOILED!"
+	line "LAY EGG!"
 
 	para "Only one #MON"
 	line "can use it!"
@@ -64,15 +64,15 @@ _TM41NoRoomText::
 
 _CeladonCityText6::
 	text "This is my trusted"
-	line "pal, NYOROBON!"
+	line "pal, WHIRLPOON!"
 
 	para "It evolved from"
-	line "NYOROZO when I"
+	line "WHIRLER when I"
 	cont "used WATER STONE!"
 	done
 
 _CeladonCityText7::
-	text "NYOROBON: Ribi"
+	text "WHIRLPOON: Ribi"
 	line "ribit!@"
 	text_end
 
@@ -89,11 +89,11 @@ _CeladonCityText9::
 _CeladonCityText10::
 	text "TRAINER TIPS"
 
-	para "X ACCURACY boosts"
+	para "HITS UP boosts"
 	line "the accuracy of"
 	cont "techniques!"
 
-	para "DIRE HIT jacks up"
+	para "CRITICUT jacks up"
 	line "the likelihood of"
 	cont "critical hits!"
 
@@ -130,7 +130,7 @@ _CeladonCityText15::
 _CeladonCityText16::
 	text "TRAINER TIPS"
 
-	para "GUARD SPEC."
+	para "EFFECT GUARD"
 	line "protects #MON"
 	cont "against SPECIAL"
 	cont "attacks such as"
