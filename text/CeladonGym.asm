@@ -54,8 +54,8 @@ _CeladonGymText9::
 
 	para "It also allows"
 	line "#MON to use"
-	cont "STRENGTH in and"
-	cont "out of battle."
+	cont "SUPERPOWER out"
+	cont "of battle."
 
 	para "Please also take"
 	line "this with you."
@@ -163,7 +163,7 @@ _CeladonGymAfterBattleText5::
 
 _CeladonGymBattleText6::
 	text "Don't bring any"
-	line "bugs or fire"
+	line "bugs or flame"
 	cont "#MON in here!"
 	done
 
