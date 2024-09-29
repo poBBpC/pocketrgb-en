@@ -5,13 +5,13 @@ _CeladonMart2Text3::
 
 	para "Hmm, it's a"
 	line "more powerful"
-	cont "REPELLENT SPRAY!"
+	cont "REPEL SPRAY!"
 	done
 
 _CeladonMart2Text4::
 	text "For long outings,"
 	line "you should buy"
-	cont "REVIVE."
+	cont "REVIVE SHARD."
 	done
 
 _CeladonMart2Text5::
