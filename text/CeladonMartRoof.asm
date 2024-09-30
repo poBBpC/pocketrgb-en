@@ -59,7 +59,7 @@ _CeladonMartRoofText_4850f::
 	text " contains"
 	line "ROCK SLIDE!"
 
-	para "It can spook the"
+	para "It can flinch the"
 	line "target sometimes!@"
 	text_end
 
