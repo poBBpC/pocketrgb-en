@@ -7,8 +7,8 @@ _FuchsiaMartText2::
 	done
 
 _FuchsiaMartText3::
-	text "Did you try X"
-	line "SPEED? It speeds"
-	cont "up a #MON in"
-	cont "battle!"
+	text "Did you try"
+	line "SPEEDER? It speeds"
+	cont "up a #MON"
+	cont "in battle!"
 	done
