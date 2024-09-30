@@ -115,7 +115,7 @@ _Route20EndBattleText8::
 _Route20AfterBattleText8::
 	text "Will my pearls"
 	line "grow bigger"
-	cont "inside PARSHEN?"
+	cont "inside PERLSHELL?"
 	done
 
 _Route20BattleText9::
