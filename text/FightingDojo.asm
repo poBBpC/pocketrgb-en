@@ -115,13 +115,13 @@ _FightingDojoAfterBattleText4::
 _WantHitmonleeText::
 	text "You want the"
 	line "hard kicking"
-	cont "SAWAMULAR?"
+	cont "SAWAMAULAR?"
 	done
 
 _WantHitmonchanText::
 	text "You want the"
 	line "piston punching"
-	cont "EBIWALAR?"
+	cont "EBIWAILAR?"
 	done
 
 _OtherHitmonText::
