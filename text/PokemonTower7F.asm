@@ -8,10 +8,11 @@ _TowerRescueFujiText::
 
 	para "I came to calm"
 	line "the soul of"
-	cont "KARAKARA's mother."
+	cont "PITAPATA's mother."
 
-	para "I think GARAGARA's"
-	line "spirit has gone"
+	para "KLITAKLATA's"
+	line "spirit seems to"
+	cont "have departed"
 	cont "to the afterlife."
 
 	para "I must thank you"
