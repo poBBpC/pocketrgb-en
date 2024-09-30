@@ -137,20 +137,20 @@ _CeruleanCityText6::
 	done
 
 _CeruleanCityText_19730::
-	text "OK! YADORAN!"
+	text "OK! YAWNDUHAN!"
 	line "Use SONIC BOOM!"
-	cont "Come on, YADORAN"
+	cont "C'mon YAWNDURAN"
 	cont "pay attention!"
 	done
 
 _CeruleanCityText_19735::
-	text "YADORAN punch!"
+	text "YAWNDUHAN punch!"
 	line "No! You blew it"
 	cont "again!"
 	done
 
 _CeruleanCityText_1973a::
-	text "YADORAN, WITHDRAW!"
+	text "YAWNDUHAN swing!"
 	line "No! That's wrong!"
 
 	para "It's so hard to"
@@ -163,22 +163,22 @@ _CeruleanCityText_1973a::
 	done
 
 _CeruleanCityText_1976f::
-	text "YADORAN took a"
+	text "YAWNDUHAN took a"
 	line "snooze..."
 	done
 
 _CeruleanCityText_19774::
-	text "YADORAN is"
+	text "YAWNDUHAN is"
 	line "loafing around..."
 	done
 
 _CeruleanCityText_19779::
-	text "YADORAN turned"
+	text "YAWNDUHAN turned"
 	line "away..."
 	done
 
 _CeruleanCityText_1977e::
-	text "YADORAN"
+	text "YAWNDUHAN"
 	line "ignored orders..."
 	done
 
