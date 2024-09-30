@@ -56,7 +56,7 @@ _SaffronCityText10::
 
 _SaffronCityText11::
 	text "I flew here on my"
-	line "PIGEOT when I"
+	line "PIDGEOT when I"
 	cont "read about SYLPH."
 
 	para "It's already over?"
@@ -65,7 +65,7 @@ _SaffronCityText11::
 	done
 
 _SaffronCityText12::
-	text "PIGEOT: Bi bibii!@"
+	text "PIDGEOT: Bi bibi!@"
 	text_end
 
 _SaffronCityText13::
@@ -106,13 +106,13 @@ _SaffronCityText18::
 	cont "LEADER: NATSUME"
 
 	para "The Master of"
-	line "Psychic #MON!"
+	line "Esper #MON!"
 	done
 
 _SaffronCityText20::
 	text "TRAINER TIPS"
 
-	para "FULL HEAL cures"
+	para "HEAL ALL cures"
 	line "all ailments like"
 	cont "sleep and burns."
 
