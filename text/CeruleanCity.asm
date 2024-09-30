@@ -150,8 +150,9 @@ _CeruleanCityText_19735::
 	done
 
 _CeruleanCityText_1973a::
-	text "YAWNDUHAN swing!"
-	line "No! That's wrong!"
+	text "OK! YAWNDUHAN, go!"
+	line "Use WITHDRAW!"
+	cont "No! That's wrong!"
 
 	para "It's so hard to"
 	line "control #MON!"
