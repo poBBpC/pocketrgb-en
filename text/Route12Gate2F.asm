@@ -17,7 +17,7 @@ _TM39ExplanationText::
 	text "TM39 is a move"
 	line "called SPEED STAR."
 
-	para "It's very accurate,"
+	para "It never misses,"
 	line "so use it during"
 	cont "battles you can't"
 	cont "afford to lose."
