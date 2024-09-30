@@ -3,19 +3,19 @@ _VermilionCityText1::
 	line "about pollution!"
 
 	para "We've heard"
-	line "BETBETER multi-"
-	cont "plies in toxic"
+	line "that ICKYSTICKY"
+	cont "breeds in toxic"
 	cont "sludge!"
 	done
 
 _VermilionCityTextDidYouSee::
-	text "Did you see S.S."
-	line "ANNE moored in"
+	text "Did you see ST."
+	line "ANNU moored in"
 	cont "the harbor?"
 	done
 
 _VermilionCityTextSSAnneDeparted::
-	text "So, S.S.ANNU has"
+	text "So, ST.ANNU has"
 	line "departed!"
 
 	para "She'll be back in"
@@ -23,13 +23,13 @@ _VermilionCityTextSSAnneDeparted::
 	done
 
 _SSAnneWelcomeText4::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Welcome to ST."
+	line "ANNU!"
 	done
 
 _SSAnneWelcomeText9::
-	text "Welcome to S.S."
-	line "ANNE!"
+	text "Welcome to ST."
+	line "ANNU!"
 
 	para "Excuse me, do you"
 	line "have a ticket?"
@@ -37,16 +37,16 @@ _SSAnneWelcomeText9::
 
 _SSAnneFlashedTicketText::
 	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	line "the SHIP TICKET!"
 
 	para "Great! Welcome to"
-	line "S.S.ANNU!"
+	line "ST. ANNU!"
 	done
 
 _SSAnneNoTicketText::
 	text "<PLAYER> doesn't"
 	line "have the needed"
-	cont "S.S.TICKET."
+	cont "SHIP TICKET."
 
 	para "Sorry!"
 
@@ -68,19 +68,19 @@ _VermilionCityText4::
 	done
 
 _VermilionCityText5::
-	text "WANRIKY: Guoh!"
+	text "ARMPOWA: Guoh!"
 	line "Gogogoh!@"
 	text_end
 
 _VermilionCityText14::
 	text_start
-	para "A WANRIKY is"
+	para "An ARMPOWA is"
 	line "stomping the land"
 	cont "flat."
 	done
 
 _VermilionCityText6::
-	text "S.S.ANNU is a"
+	text "ST.ANNU is a"
 	line "famous luxury"
 	cont "cruise ship."
 
