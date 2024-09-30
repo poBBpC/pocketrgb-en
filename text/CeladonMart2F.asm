@@ -11,7 +11,7 @@ _CeladonMart2Text3::
 _CeladonMart2Text4::
 	text "For long outings,"
 	line "you should buy"
-	cont "REVIVE SHARD."
+	cont "REVIVE SHARDs."
 	done
 
 _CeladonMart2Text5::
