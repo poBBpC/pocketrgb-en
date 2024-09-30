@@ -16,6 +16,6 @@ _CopycatsHouse1FText2::
 	done
 
 _CopycatsHouse1FText3::
-	text "LUCKY: Chaan!"
-	line "Sii!@"
+	text "LUCKY: Luuu!"
+	line "Kii!@"
 	text_end
