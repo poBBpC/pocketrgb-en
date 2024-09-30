@@ -22,8 +22,8 @@ _SilphCo5EndBattleText5::
 _SilphCo5AfterBattleText5::
 	text "Which reminds me."
 
-	para "DOGARS evolves"
-	line "into MATADOGAS!"
+	para "SMOGXIC evolves"
+	line "into RESMOGXIC!"
 	done
 
 _SilphCo5Text9::
