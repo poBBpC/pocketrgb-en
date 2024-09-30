@@ -1,13 +1,13 @@
 _FuchsiaMeetingRoomText1::
 	text "We nicknamed the"
-	line "WARDEN YADON."
+	line "WARDEN YAWNDUH."
 
-	para "He and YADON"
+	para "He and YAWNDUH"
 	line "both look vacant!"
 	done
 
 _FuchsiaMeetingRoomText2::
-	text "YADON is very"
+	text "YAWNDUH is very"
 	line "knowledgeable"
 	cont "about #MON!"
 
@@ -17,7 +17,7 @@ _FuchsiaMeetingRoomText2::
 	done
 
 _FuchsiaMeetingRoomText3::
-	text "YADON came in,"
+	text "YAWNDUH came in,"
 	line "but I couldn't"
 	cont "understand him."
 
