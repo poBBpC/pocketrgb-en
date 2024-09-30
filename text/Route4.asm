@@ -1,7 +1,7 @@
 _Route4Text1::
 	text "Ouch! I tripped"
 	line "over a rocky"
-	cont "#MON, ISITSUBUTE!"
+	cont "#MON, PEBBLER!"
 	done
 
 _Route4BattleText1::
