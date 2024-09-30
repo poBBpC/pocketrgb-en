@@ -22,7 +22,7 @@ _BlaineEndBattleText::
 	text_end
 
 _BlaineFireBlastText::
-	text "FIRE BLAST is the"
+	text "WILDFIRE is the"
 	line "ultimate fire"
 	cont "technique!"
 
@@ -53,7 +53,7 @@ _TM38ExplanationText::
 	text_start
 
 	para "TM38 contains"
-	line "FIRE BLAST!"
+	line "WILDFIRE!"
 
 	para "Teach it to fire-"
 	line "type #MON!"
@@ -124,7 +124,7 @@ _CinnabarGymText_759d3::
 
 _CinnabarGymText_759fe::
 	text "I just like using"
-	line "fire #MON!"
+	line "flame #MON!"
 	done
 
 _CinnabarGymText_75a03::
@@ -187,7 +187,7 @@ _CinnabarGymText_75aa2::
 
 _CinnabarGymText_75aa7::
 	text "Water beats fire!"
-	line "But, fire melts"
+	line "But, flame melts"
 	cont "ice #MON!"
 	done
 
