@@ -25,7 +25,7 @@ _Route19EndBattleText2::
 
 _Route19AfterBattleText2::
 	text "Watch out for"
-	line "MENOKURAGE!"
+	line "JELLEYE!"
 	done
 
 _Route19BattleText3::
