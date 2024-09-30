@@ -9,6 +9,6 @@ _RockTunnelPokecenterText2::
 
 _RockTunnelPokecenterText3::
 	text "I sold a useless"
-	line "GOLD ORB for"
+	line "GOLDEN ORB for"
 	cont "¥5000!"
 	done
