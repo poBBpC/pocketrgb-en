@@ -24,5 +24,5 @@ _Route11AfterBattleText10::
 	done
 
 _Route11Text11::
-	text "DIGDA's CAVE"
+	text "DIGGO's CAVE"
 	done
