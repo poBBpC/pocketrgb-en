@@ -7,7 +7,8 @@ _SaffronMartText2::
 	done
 
 _SaffronMartText3::
-	text "REVIVE is costly,"
-	line "but it revives"
+	text "REVIVE SHARDs can
+	line "be costly,"
+	cont "but they revive"
 	cont "fainted #MON!"
 	done
