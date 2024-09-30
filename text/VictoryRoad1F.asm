@@ -21,7 +21,7 @@ _VictoryRoad1BattleText2::
 	done
 
 _VictoryRoad1EndBattleText2::
-	text "I"
+	text "I thought I"
 	line "had a chance..."
 	prompt
 
