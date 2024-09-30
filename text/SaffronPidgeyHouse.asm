@@ -8,18 +8,18 @@ _SaffronHouse1Text1::
 	done
 
 _SaffronHouse1Text2::
-	text "POPPO: Kurukkoo!@"
+	text "COOCOO: Kurukkoo!@"
 	text_end
 
 _SaffronHouse1Text3::
-	text "The MIMIC GIRL is"
+	text "The COPYCAT is"
 	line "cute! I'm getting"
-	cont "her a PIPPI DOLL!"
+	cont "her a PIPPY DOLL!"
 	done
 
 _SaffronHouse1Text4::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "I was gifted a"
+	line "POINT UP."
 
 	para "It's used for"
 	line "increasing the PP"
