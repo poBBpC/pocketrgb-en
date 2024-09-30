@@ -30,7 +30,7 @@ _TM35NoRoomText::
 	done
 
 _Lab3Text2::
-	text "EIEVUI can evolve"
+	text "EEVEE can evolve"
 	line "into 1 of 3 kinds"
 	cont "of #MON."
 	done
@@ -44,7 +44,7 @@ _Lab3Text3::
 	para "The 3 legendary"
 	line "bird #MON are"
 	cont "FREEZER, THUNDER"
-	cont "and FIRE."
+	cont "and FLAMER."
 
 	para "Their whereabouts"
 	line "are unknown."
