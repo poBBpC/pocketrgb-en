@@ -41,8 +41,9 @@ _Route8EndBattleText3::
 	prompt
 
 _Route8AfterBattleText3::
-	text "Go with BETBETER"
-	line "first...and..."
+	text "Go with my
+	line "ICKYSTICKY"
+	cont "first...and..."
 	cont "...and...then..."
 	done
 
@@ -79,7 +80,7 @@ _Route8AfterBattleText5::
 	done
 
 _Route8BattleText6::
-	text "NYARTH is so cute,"
+	text "MEOWTH is so cute,"
 	line "meow, meow, meow!"
 	done
 
@@ -88,8 +89,8 @@ _Route8EndBattleText6::
 	prompt
 
 _Route8AfterBattleText6::
-	text "I think POPPO"
-	line "and KORATTA"
+	text "I think COOCOO"
+	line "and RATTAKID"
 	cont "are cute too!"
 	done
 
@@ -138,12 +139,12 @@ _Route8EndBattleText9::
 	text "Stop!"
 
 	para "Don't be so mean"
-	line "to my PIPPI!"
+	line "to my PIPPY!"
 	prompt
 
 _Route8AfterBattleText9::
 	text "I heard that"
-	line "PIPPI evolves"
+	line "PIPPY evolves"
 	cont "when it's exposed"
 	cont "to a MOON STONE."
 	done
