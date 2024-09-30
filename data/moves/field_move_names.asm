@@ -7,4 +7,4 @@ FieldMoveNames:
 	db "FLASH@"
 	db "DIG@"
 	db "TELEPORT@"
-	db "EGG LAY@"
+	db "LAY EGG@"
