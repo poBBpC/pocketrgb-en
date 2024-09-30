@@ -1,5 +1,5 @@
 _CeruleanMartText2::
-	text "Use REPELLENT SPRAY"
+	text "Use REPEL SPRAY"
 	line "to keep bugs and"
 	cont "weak #MON away."
 
@@ -11,7 +11,7 @@ _CeruleanMartText2::
 
 _CeruleanMartText3::
 	text "Have you seen any"
-	line "STRANGE CANDY?"
+	line "ODD CANDY?"
 
 	para "It's supposed to"
 	line "make #MON go"
