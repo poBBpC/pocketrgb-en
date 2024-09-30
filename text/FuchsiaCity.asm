@@ -74,14 +74,14 @@ _FuchsiaCityChanseyText::
 	prompt
 
 _FuchsiaCityVoltorbText::
-	text "Name: BIRIRIDAMA"
+	text "Name: VOLTORB"
 
 	para "The very image of"
 	line "a MONSTER BALL."
 	prompt
 
 _FuchsiaCityKangaskhanText::
-	text "Name: GARURA"
+	text "Name: KANGARULER"
 
 	para "A maternal #MON"
 	line "that raises its"
@@ -90,7 +90,7 @@ _FuchsiaCityKangaskhanText::
 	prompt
 
 _FuchsiaCitySlowpokeText::
-	text "Name: YADON"
+	text "Name: YAWNDUH"
 
 	para "Friendly and very"
 	line "slow moving."
@@ -104,7 +104,7 @@ _FuchsiaCityLaprasText::
 	prompt
 
 _FuchsiaCityOmanyteText::
-	text "Name: OMNITE"
+	text "Name: AMMONAUT"
 
 	para "A #MON that"
 	line "was resurrected"
