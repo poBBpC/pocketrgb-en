@@ -9,8 +9,9 @@ _RockTunnel1EndBattleText1::
 	prompt
 
 _RockTunnel1AfterBattleText1::
-	text "Watch for IWARK!"
-	line "It can put the"
+	text "Keep an eye out"
+	line "for STONAKE!"
+	cont "It can put the"
 	cont "squeeze on you!"
 	done
 
@@ -59,7 +60,7 @@ _RockTunnel1EndBattleText4::
 
 _RockTunnel1AfterBattleText4::
 	text "Oh well, I'll get"
-	line "a ZUBAT as I go!"
+	line "a STABBAT later."
 	done
 
 _RockTunnel1BattleText5::
@@ -74,7 +75,7 @@ _RockTunnel1EndBattleText5::
 	prompt
 
 _RockTunnel1AfterBattleText5::
-	text "I saw a WANRIKY"
+	text "I saw a ARMPOWA"
 	line "in this tunnel!"
 	done
 
