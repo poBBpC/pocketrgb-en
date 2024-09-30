@@ -1,9 +1,9 @@
 _KogaExplainToxicText::
 	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	line "TOXICKILL,"
+	cont "#MON suffer"
+	cont "more and more as"
+	cont "battle goes on!"
 
 	para "It will surely"
 	line "terrorize foes!"
@@ -34,7 +34,7 @@ _ReceivedTM06Text::
 _TM06ExplanationText::
 	text_start
 	para "TM06 contains"
-	line "TOXIC!"
+	line "TOXICKILL!"
 
 	para "It is a secret"
 	line "technique over"
