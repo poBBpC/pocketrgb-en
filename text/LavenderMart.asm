@@ -5,24 +5,26 @@ _LavenderMartText2::
 	cont "#MON during a"
 	cont "single battle."
 
-	para "X ATTACK, X"
-	line "DEFEND, X SPEED"
-	cont "and X SPECIAL are"
-	cont "what I'm after."
+	para "PLUS POWER,"
+	line "DEFENDER, SPEE-"
+	cont "DER and SPECIAL"
+	cont "UP are what"
+	cont "I'm after."
 
 	para "Do you know where"
 	line "I can get them?"
 	done
 
 _LavenderMartReviveText::
-	text "You know REVIVE?"
-	line "It revives any"
-	cont "fainted #MON!"
+	text "You know REVIVE"
+	line "SHARD? It revives"
+	cont "any fainted"
+	cont "#MON!"
 	done
 
 _LavenderMartNuggetText::
-	text "I found a GOLD ORB"
-	line "in the mountains."
+	text "I found a GOLDEN"
+	line "ORB on the road."
 
 	para "I thought it was"
 	line "useless, but it"
