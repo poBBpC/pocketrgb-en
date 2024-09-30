@@ -75,9 +75,8 @@ _PewterGymText_5c4c1::
 	cont "more powerful!"
 
 	para "The technique"
-	line "LIGHT FLASH can"
-	cont "now be used"
-	cont "at any time!"
+	line "FLASH can now be"
+	cont "used any time!"
 	prompt
 
 _PewterGymBattleText1::
