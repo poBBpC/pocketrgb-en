@@ -17,7 +17,7 @@ _CopycatsHouse2FText_5ccd4::
 
 _TM31PreReceiveText::
 	text "Oh wow!"
-	line "A PIPPI DOLL!"
+	line "A PIPPY DOLL!"
 
 	para "For me?"
 	line "Thank you!"
@@ -53,7 +53,7 @@ _TM31ExplanationText2::
 	line "that fun to mimic"
 	cont "my every move?"
 
-	para "MIMIC GIRL: You"
+	para "COPYCAT: You"
 	line "bet! It's a"
 	cont "scream!"
 	done
@@ -93,7 +93,7 @@ _CopycatsHouse2FText_5cd17::
 	line "Hobby: Collecting"
 	cont "dolls!"
 	cont "Favorite #MON:"
-	cont "PIPPI!"
+	cont "PIPPY!"
 	done
 
 _CopycatsHouse2FText_5cd1c::
