@@ -1,5 +1,5 @@
 _SSAnne8Text8::
-	text "PUKURIN: Puup"
+	text "CUSTARD: Puup"
 	line "pupuu!@"
 	text_end
 
@@ -88,7 +88,7 @@ _SSAnne8Text6::
 
 _SSAnne8Text7::
 	text "I always travel"
-	line "with PUKURIN!"
+	line "with CUSTARD!"
 	done
 
 _SSAnne8Text9::
