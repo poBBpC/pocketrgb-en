@@ -63,8 +63,9 @@ ReceivedTM46Text::
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
+	para "TM46 contains"
+	line "PSYCHO WAVE!"
+	cont "It uses powerful"
 	cont "psychic waves to"
 	cont "inflict damage!"
 	done
@@ -84,7 +85,7 @@ _SaffronGymText_5d1e6::
 
 	para "Fighting #MON"
 	line "are weak against"
-	cont "psychic #MON!"
+	cont "esper #MON!"
 
 	para "They get creamed"
 	line "before they can"
@@ -133,7 +134,7 @@ _SaffronGymEndBattleText2::
 	prompt
 
 _SaffronGymAfterBattleText2::
-	text "Psychic #MON"
+	text "Esper #MON"
 	line "fear only ghosts"
 	cont "and bugs!"
 	done
