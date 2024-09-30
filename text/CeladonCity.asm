@@ -64,7 +64,7 @@ _TM41NoRoomText::
 
 _CeladonCityText6::
 	text "This is my trusted"
-	line "pal, WHIRLPOON!"
+	line "pal, WHIRLPHOON!"
 
 	para "It evolved from"
 	line "WHIRLER when I"
@@ -89,11 +89,11 @@ _CeladonCityText9::
 _CeladonCityText10::
 	text "TRAINER TIPS"
 
-	para "HITS UP boosts"
+	para "HITS UP raises"
 	line "the accuracy of"
 	cont "techniques!"
 
-	para "CRITICUT jacks up"
+	para "CRITICUT raises"
 	line "the likelihood of"
 	cont "critical hits!"
 
