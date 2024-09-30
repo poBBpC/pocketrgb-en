@@ -107,13 +107,14 @@ _MtMoon1EndBattleText8::
 	prompt
 
 _MtMoon1AfterBattleText8::
-	text "ZUBAT is tough!"
+	text "STABBAT's tough!"
 	line "But, it can be"
 	cont "useful if you"
 	cont "catch one."
 	done
 
 _MtMoon1Text14::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "Beware! STABBAT"
+	line "can suck out"
+	cont "blood!"
 	done
