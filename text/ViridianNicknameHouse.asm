@@ -18,6 +18,6 @@ _ViridianHouseText_1d5b1::
 	done
 
 _ViridianHouseText4::
-	text "ONISUZUME"
+	text "ONISPARROW"
 	line "Name: SPEARY"
 	done
