@@ -1,6 +1,6 @@
 _VermilionHouse1Text1::
 	text "I'm getting my"
-	line "POPPO to fly a"
+	line "COOCOO to fly a"
 	cont "letter to YAMABUKI"
 	cont "in the north!"
 	done
@@ -10,7 +10,7 @@ _VermilionHouse1Text2::
 	text_end
 
 _VermilionHouse1Text3::
-	text "Dear PIPPI, I hope"
+	text "Dear PIPPY, I hope"
 	line "to see you soon."
 
 	para "I heard YAMABUKI"
