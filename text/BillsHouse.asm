@@ -67,7 +67,7 @@ _SSTicketNoRoomText::
 
 _BillsHouseText_1e8cb::
 	text "That cruise ship,"
-	line "S.S.ANNU, is in"
+	line "ST.ANNU, is in"
 	cont "KUCHIBA CITY."
 	cont "Its passengers"
 	cont "are all trainers!"
@@ -75,8 +75,8 @@ _BillsHouseText_1e8cb::
 	para "They invited me"
 	line "to their party,"
 	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
+	cont "fancy parties."
+	cont "Why don't you go"
 	cont "instead of me?"
 	done
 
