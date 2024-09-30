@@ -26,6 +26,6 @@ _ViridianMartText2::
 	done
 
 _ViridianMartText3::
-	text "No! MEDICINEs are"
+	text "No! WOUND MEDs are"
 	line "all sold out."
 	done
