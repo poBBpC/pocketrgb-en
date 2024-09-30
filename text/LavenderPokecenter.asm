@@ -5,7 +5,7 @@ _LavenderPokecenterText2::
 	done
 
 _LavenderPokecenterText3::
-	text "I saw KARAKARA's"
+	text "I saw PITAPATA's"
 	line "mother die trying"
 	cont "to escape from"
 	cont "ROCKET GANG!"
