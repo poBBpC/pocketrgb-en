@@ -47,12 +47,12 @@ _ViridianCityText_19175::
 	text "Oh Grandpa!"
 	line "How did you fall"
 	cont "asleep here, of"
-    cont "all places!"
+        cont "all places!"
 	
 	para "We have no other"
 	line "choice than to"
-    cont "wait until he"
-    cont "sobers up..."
+        cont "wait until he"
+        cont "sobers up..."
 	done
 
 _ViridianCityText_1917a::
@@ -68,11 +68,11 @@ _ViridianCityText_19191::
 	line "Wait a minute!"
 	cont "Lissen to what"
 	cont "I'm going to tell"
-    cont "you!..."
+        cont "you!..."
 
 	para "Hey!"
 	line "Don't go away,"
-    cont "I said!"
+        cont "I said!"
 	done
 
 _ViridianCityText_191ca::
@@ -81,7 +81,7 @@ _ViridianCityText_191ca::
 	cont "off in the sun."
 
 	para "I had this dream"
-	line "about a SLEEP"
+	line "about a SLEEPEYE"
 	cont "eating my dream."
 	cont "What's this?"
 	cont "Where did this TM"
@@ -111,12 +111,12 @@ _TM42NoRoomText::
 _ViridianCityText_1920a::
 	text "Ugh..."
 	line "Seems like I"
-	cont "was drunk!"
+	cont "drank too much!"
 
 	para "My head hurts..."
 
 	para "By the way,"
-    line "are you in a"
+        line "are you in a"
 	cont "hurry?"
 	done
 
