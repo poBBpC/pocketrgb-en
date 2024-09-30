@@ -47,9 +47,9 @@ _ViridianForestBattleText3::
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "I give!"
+	line "You're pretty"
+	cont "good at this!"
 	prompt
 
 _ViridianFrstAfterBattleText3::
