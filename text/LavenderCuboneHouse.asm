@@ -1,5 +1,5 @@
 _LavenderHouse2Text1::
-	text "KARAKARA: "
+	text "PITAPATA: "
 	line "Kyarugoo!@"
 	text_end
 
@@ -7,7 +7,7 @@ _LavenderHouse2Text_1d9dc::
 	text "I hate those"
 	line "horrible ROCKETs!"
 
-	para "That poor KARAKARA's"
+	para "That poor PITAPATA's"
 	line "mother..."
 
 	para "It was killed"
