@@ -139,7 +139,7 @@ _SaffronCityText22::
 	done
 
 _SaffronCityText24::
-	text "MR.PSYCHIC's"
+	text "ESPER OYAJI's"
 	line "HOUSE"
 	done
 
