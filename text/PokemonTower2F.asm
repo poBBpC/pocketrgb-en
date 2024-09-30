@@ -31,10 +31,10 @@ _PokemonTower2Text_6063c::
 	text "How's your #DEX"
 	line "coming, pal?"
 	cont "I just caught a"
-	cont "KARAKARA!"
+	cont "PITAPATA!"
 
 	para "I can't find the"
-	line "grown-up GARAGARA"
+	line "adult KLITAKLATA"
 	cont "yet!"
 
 	para "I doubt there are"
