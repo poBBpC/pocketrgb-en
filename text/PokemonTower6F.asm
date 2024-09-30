@@ -1,7 +1,7 @@
 _PokemonTower2Text_60c1f::
 	text "The GHOST was the"
 	line "restless soul of"
-	cont "KARAKARA's mother!"
+	cont "PITAPATA's mother!"
 	done
 
 _PokemonTower2Text_60c24::
