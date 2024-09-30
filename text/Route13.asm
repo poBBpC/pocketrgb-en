@@ -154,8 +154,8 @@ _Route13EndBattleText11::
 
 _Route13AfterBattleText11::
 	text "I wish I could"
-	line "fly like POPPO"
-	cont "and PIGEON..."
+	line "fly like COOCOO"
+	cont "and PIDGEON..."
 	done
 
 _Route13Text11::
